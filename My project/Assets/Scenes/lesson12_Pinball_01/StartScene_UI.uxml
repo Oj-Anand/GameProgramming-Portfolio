@@ -1,0 +1,11 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Button text="Load High Score&#10;" name="LoadButton" style="position: absolute; top: 712px; left: 86px; height: 112px; width: 804px; font-size: 100px;" />
+    <engine:Label text="Welcome to Pinball" style="font-size: 100px; position: absolute; top: -22px; left: 6px; height: 175px; width: 903px;" />
+    <engine:Label name="HighScoreLabel" style="font-size: 100px; position: absolute; top: 205px; left: 578px; height: 126px; width: 760px;" />
+    <engine:Button text="Save High Score&#10;" name="SaveButton" style="position: absolute; top: 578px; left: 77px; height: 116px; width: 803px; font-size: 100px;" />
+    <engine:Label text="High Score:" style="font-size: 100px; position: absolute; top: 1593px; left: 109px; height: 99px; width: 617px;" />
+    <engine:Label text="Score:" style="font-size: 100px; position: absolute; top: 93px; left: 6px; height: 146px; width: 317px;" />
+    <engine:Label text="High Score:" style="font-size: 100px; position: absolute; top: 214px; left: 10px; height: 146px; width: 317px;" />
+    <engine:Label name="ScoreLabel" style="font-size: 100px; position: absolute; top: 113px; left: 326px; height: 104px; width: 479px;" />
+    <engine:Button text="Play!" name="LoadLevel01Button" style="position: absolute; top: 395px; left: 308px; height: 147px; width: 367px; font-size: 100px;" />
+</engine:UXML>

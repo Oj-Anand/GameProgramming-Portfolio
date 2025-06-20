@@ -1,0 +1,4 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Label name="ScoreLabel" text="The Score goes here" style="position: absolute; top: 90px; left: 53px; font-size: 100px;" />
+    <engine:Label name="BallsLabel" text="Balls:" style="position: absolute; top: 221px; left: 53px; font-size: 100px;" />
+</engine:UXML>
