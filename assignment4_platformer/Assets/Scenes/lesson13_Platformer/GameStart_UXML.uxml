@@ -1,0 +1,5 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Label text="Welcome to Potato Man Platformer" name="WelcomeLabel" />
+    <engine:Label text="The goal of this game is to help Mr Potato Man &#10;collect atleast 3 coins so he can take the LRT. &#10;The LRT station is where the flag is. " name="InstructionsLabel" />
+    <engine:Button text="PLAY" name="PlayButton" />
+</engine:UXML>

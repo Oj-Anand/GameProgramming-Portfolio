@@ -1,0 +1,5 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Label text="GAME OVER&#10;" name="GameOverText" />
+    <engine:Label text="Coins Collected: X" name="CoinLabel" />
+    <engine:Button text="Play Again" name="PlayAgainButton" />
+</engine:UXML>

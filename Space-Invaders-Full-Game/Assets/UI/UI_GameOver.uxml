@@ -1,0 +1,8 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:VisualElement name="root" style="flex-grow: 1; flex-shrink: 1; align-items: center; justify-content: center;">
+        <engine:Label text="Game Over!" style="font-size: 48px; align-self: center; margin-bottom: 20px;" />
+        <engine:Label name="FinalScoreLabel" text="Your Score: 0" style="font-size: 30px; align-self: center; margin-bottom: 20px;" />
+        <engine:Label name="HighScoreLabel" text="High Score: 0" style="font-size: 30px; align-self: center; margin-bottom: 20px;" />
+        <engine:Button name="PlayAgainButton" text="Play Again" style="width: 300px; height: 60px; margin-bottom: 20px;" />
+    </engine:VisualElement>
+</engine:UXML>
