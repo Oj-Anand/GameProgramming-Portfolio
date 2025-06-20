@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ojas/Documents/GitHub/assignment-04-better-mosquitoes-Oj-Anand/Ojas_Anand_Mosquito_Attack/Content/CannonBall.png</File>
+    <File>C:/Users/Ojas/Documents/GitHub/assignment-04-better-mosquitoes-Oj-Anand/Ojas_Anand_Mosquito_Attack/Content/Mosquito.png</File>
+    <File>C:/Users/Ojas/Documents/GitHub/assignment-04-better-mosquitoes-Oj-Anand/Ojas_Anand_Mosquito_Attack/Content/Background.png</File>
+    <File>C:/Users/Ojas/Documents/GitHub/assignment-04-better-mosquitoes-Oj-Anand/Ojas_Anand_Mosquito_Attack/Content/Cannon.png</File>
+    <File>C:/Users/Ojas/Documents/GitHub/assignment-04-better-mosquitoes-Oj-Anand/Ojas_Anand_Mosquito_Attack/Content/Poof.png</File>
+    <File>C:/Users/Ojas/Documents/GitHub/assignment-04-better-mosquitoes-Oj-Anand/Ojas_Anand_Mosquito_Attack/Content/Fireball.png</File>
+    <File>C:/Users/Ojas/Documents/GitHub/assignment-04-better-mosquitoes-Oj-Anand/Ojas_Anand_Mosquito_Attack/Content/SystemArialFont.spritefont</File>
+    <File>C:/Users/Ojas/Documents/GitHub/assignment-04-better-mosquitoes-Oj-Anand/Ojas_Anand_Mosquito_Attack/Content/FastBullet.png</File>
+    <File>C:/Users/Ojas/Documents/GitHub/assignment-04-better-mosquitoes-Oj-Anand/Ojas_Anand_Mosquito_Attack/Content/FastBullet-nobg.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
